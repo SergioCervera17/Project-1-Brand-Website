@@ -1,0 +1,50 @@
+body{
+    background-image: url("../images/background.jpg");
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.containerIzq, .containerDcha{
+    width: 480px;
+    text-align: center;
+}
+
+
+.cartas{
+    width: 300px;
+    height: 300px;
+}
+
+.noticia{
+    border: 1px solid lightblue;
+    border-radius: 30px;
+    max-width: 400px;
+    margin: auto; 
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.tabletop{
+    width: 340px;
+    height: 320px;
+}
+
+.opensource{
+    width: 150px;
+    height: 200px;
+}
+
+.language{
+    width: 280px;
+    height: 230px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+

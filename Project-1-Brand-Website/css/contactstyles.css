@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+form, input{
+    padding: 10px;
+    margin: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.country, .lastname, .firstname{
+    text-align: center; 
+}
+
+label, select{
+    border: 1px solid grey;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
